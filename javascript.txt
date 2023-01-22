@@ -1,0 +1,8 @@
+		JavaScript
+
+* tipos de dados: textos (String), numeros (num), booleanos (true, false)
+
+* function sempre usar {} (chaves)
+
+* object, variavel que recebe atributos e métodos, sempre usar {} (chaves), sempre usar function para o método
+  separar atributos de método com virgula
